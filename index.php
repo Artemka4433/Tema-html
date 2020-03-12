@@ -10,13 +10,13 @@ EOSJacks
 	<table border="1" cellpadding="7" cellspacing="0"> 
     <td colspan="2" bgcolor="#D3EDF6" align="center"><font size=6> EOSJacks</font></td>     
    <tr>
-    <td><a href="https://www.yakaboo.ua/ru/"><font color=red>Главная</font></a><br>
-<a href="https://www.yakaboo.ua/knigi.html"><font color=red>Новинки</font></a><br>
-<a href="https://www.yakaboo.ua/knigi.html"><font color=red>Каталог</font></a><br>
-<a href="https://www.yakaboo.ua/payment/"><font color=red>Доставка</font></a><br>
+    <td><a href="https://store.steampowered.com/"><font color=red>Магазин</font></a><br>
+<a href="https://steamcommunity.com/"><font color=red>Сообщество</font></a><br>
+<a href="https://store.steampowered.com/about/"><font color=red>О EOSJacks</font></a><br>
+<a href="https://help.steampowered.com/ru/"><font color=red>Поддержка</font></a><br>
 <a href="laba1.html"><font color=red>Контакты</font></a></nav></center> 
     <td><h1 align="center"><font color="#4B0082" face="consolas">Форма заказа</font></h1>
-					<p><font size="4" face="consolas">Для регистрации заполните следующие поля.</font></p>
+					<p><font size="4" face="consolas">Для пополнения баланса заполните следующие поля.</font></p>
 					<p><b><font size="4" color="red" face="consolas">Примечание:</font></b><font size="4"face="consolas">поля помеченные</font><font color="red"> * </font><font size="4" face="consolas">обзательны для заполнения</font></p>
 					</td>	
 				</tr>
@@ -31,13 +31,13 @@ EOSJacks
 					<font size="4" face="consolas">Имя:</font><input style = "margin-left:95px"type="text" min="3" required="1" value=""><font color="red">*</font>
 					</p>
 					<p>
-						<font size="4" face="consolas">Фамилия:<input style = "margin-left:65px"type="text" min="6" required="1" value=""><font color="red">*</font>
+						<font size="4" face="consolas">Фамилия:<input style = "margin-left:55px"type="text" min="6" required="1" value=""><font color="red">*</font>
 					</p>
 					<p>
-						<font size="4" face="consolas">Логин:<input style = "margin-left:45px"type="text" min="1" required="1" value=""><font color="red">*</font>
+						<font size="4" face="consolas">Логин:<input style = "margin-left:75px"type="text" min="1" required="1" value=""><font color="red">*</font>
 					</p>
 					<p>
-						<font size="4" face="consolas">Пароль:<input style = "margin-left:5px"type="text" min="5" required="1" value=""><font color="red">*</font>
+						<font size="4" face="consolas">Пароль:<input style = "margin-left:65px"type="text" min="5" required="1" value=""><font color="red">*</font>
 					</p>
 					<p>
 						<font size="4" face="consolas">Способ оплаты<font color="red">*</font>
