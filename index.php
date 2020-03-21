@@ -8,7 +8,7 @@ EOSJacks
 	<body bgcolor="#4B0082">
 
 	<table border="1" cellpadding="7" cellspacing="0"> 
-    <td colspan="2" bgcolor="#D3EDF6" align="center"><font size=6> EOSJacks</font></td>     
+    <td colspan="2" bgcolor="#D3EDF6" align="center"><font size=6> EOSJacks</font></td>
    <tr>
     <td><a href="https://www.yakaboo.ua/ru/"><font color=red>Главная</font></a><br>
 <a href="https://www.yakaboo.ua/knigi.html"><font color=red>Новинки</font></a><br>
